@@ -1,7 +1,7 @@
 Hello, I'm Roberto Fernandes, and this is my Github Profile!!!🤖👾
 
 - 🔭 I currently work as a FullStack Developer (JS and frameworks);
-- 🚥 I can collaborate and resover problems such as: > Systems Analysis, Networks, Website Creation, Bug Fixes, SQL Database and NoSQL...
+- 🚥 I can collaborate and resover problems such as: > Systems Analysis, Networks, Website Creation, Bug Fixes;
 - 💻 I am currently studying languages such as Typescript, Go, Nodejs, Vuejs, JAVA, TDD, and web development;
 
 <div align="center">
