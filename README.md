@@ -4,11 +4,7 @@ Hello, I'm Roberto Fernandes, and this is my Github Profile!!!🤖👾
 - 🚥 I can collaborate and resover problems such as: > Systems Analysis, Networks, Website Creation, Bug Fixes;
 - 💻 I am currently studying languages such as Typescript, Go, Python, Nodejs, Vuejs, JAVA, TDD, and web development;
 
-<div align="center">
-  <a href="https://github.com/roberto-souz/roberto-souz/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roberto-souz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-souz&layout=compact&langs_count=7&theme=react"/>
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Roberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
