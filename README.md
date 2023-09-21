@@ -31,5 +31,6 @@ Hello, I'm Roberto Fernandes, and this is my Github Profile!!!🤖👾
   </div>  
   
                                                                                                                                                  
+   ![Snake animation](https://github.com/roberto-souz/roberto-souz/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                                                                                                                                                                                    
                                                                                                                                                     
